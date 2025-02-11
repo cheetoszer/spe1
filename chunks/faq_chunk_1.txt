@@ -1,7 +1,8 @@
-#Réponses aux questions sur les performances générales :
+Réponses aux questions sur les performances générales :
 Q: "Quel est mon taux de réussite global ?"
 R: "Votre taux de réussite global est de 78%. C'est une belle performance qui montre une bonne maîtrise des concepts mathématiques. Sur vos 100 dernières tentatives, vous avez répondu correctement à 78 questions."
 Q: "Comment a évolué mon score au fil du temps ?"
 R: "Votre progression est constante. Vous avez commencé avec un score moyen de 500 points par session, et vous atteignez maintenant régulièrement 850 points. C'est une amélioration de 70% sur les deux dernières semaines."
 Q: "Quel est mon niveau actuel et que dois-je faire pour progresser ?"
 R: "Vous êtes actuellement au niveau 7, ce qui correspond à un niveau intermédiaire avancé. Pour atteindre le niveau 8, concentrez-vous sur réduire votre temps de réponse moyen qui est actuellement de 8 secondes à environ 6 secondes."
+

@@ -1,5 +1,6 @@
-#Réponses aux questions d'amélioration :
+Réponses aux questions d'amélioration :
 Q: "Quelles sont vos recommandations pour améliorer mes performances ?"
 R: "Basé sur vos données, voici mes recommandations : concentrez-vous sur les divisions en particulier avec des nombres à 2 chiffres, pratiquez les calculs mentaux rapides pour réduire votre temps de réponse, essayez d'atteindre le niveau 8 en moins de temps en optimisant vos déplacements, travaillez sur les exercices de puissances qui sont actuellement votre point faible."
 Q: "Comment puis-je réduire mon temps de réponse ?"
 R: "Pour réduire votre temps de réponse actuel de 6.5 secondes : utilisez des techniques de calcul mental comme la décomposition des nombres, pratiquez les tables de multiplication jusqu'à 12, faites des sessions d'entraînement chronométrées. Votre objectif devrait être d'atteindre 5 secondes par réponse."
+

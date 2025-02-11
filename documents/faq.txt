@@ -32,7 +32,7 @@ R: "Sur le dernier mois : Votre score moyen a augmenté de 650 à 850 (+30%), Vo
 
 #Réponses aux questions sur les statistiques détaillées :
 Q: "Peux-tu me donner une analyse détaillée de mes dernières sessions ?"
-R: "Analyse des 10 dernières sessions : score moyen : 850 points, meilleur score : 1200 points (session #7), niveau maximum atteint : 7, opérations les plus réussies : additions (92%), points à améliorer : divisions (76%), temps moyen par problème : 6.5 secondes, Pprogression globale : +15% par rapport à la semaine précédente."
+R: "Analyse des 10 dernières sessions : score moyen : 850 points, meilleur score : 1200 points (session n°7), niveau maximum atteint : 7, opérations les plus réussies : additions (92%), points à améliorer : divisions (76%), temps moyen par problème : 6.5 secondes, Pprogression globale : +15% par rapport à la semaine précédente."
 
 #Réponses aux questions de stratégie :
 Q: "Quelle stratégie devrais-je adopter pour améliorer mon score ?"

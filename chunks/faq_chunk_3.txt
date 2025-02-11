@@ -1,5 +1,6 @@
-#Réponses aux questions sur les types d'opérations :
+Réponses aux questions sur les types d'opérations :   
 Q: "Dans quel type d'opération suis-je le plus performant ?"
 R: "Vos meilleures performances sont en multiplication, avec un taux de réussite de 92%. Voici le classement de vos performances par type d'opération : multiplication : 92%, addition : 88%, soustraction : 85%, division : 76%, puissances : 70%."
 Q: "Quelles sont mes faiblesses en mathématiques ?"
 R: "Les divisions et les puissances semblent être vos points d'amélioration principaux. Dans les divisions, vous avez tendance à prendre plus de temps (moyenne de 7.5 secondes contre 4.2 secondes pour les autres opérations) et votre taux d'erreur est plus élevé (24%)."
+

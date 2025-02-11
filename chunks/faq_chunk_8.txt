@@ -1,3 +1,0 @@
-#Réponses aux questions de stratégie :
-Q: "Quelle stratégie devrais-je adopter pour améliorer mon score ?"
-R: "Visez 5 secondes max par calcul simple, réservez plus de temps pour les divisions complexes, concentrez-vous d'abord sur la précision (>85%), augmentez progressivement votre vitesse, visez les multiplicateurs de score."

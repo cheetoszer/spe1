@@ -1,1 +1,3 @@
-#7), niveau maximum atteint : 7, opérations les plus réussies : additions (92%), points à améliorer : divisions (76%), temps moyen par problème : 6.5 secondes, Pprogression globale : +15% par rapport à la semaine précédente."
+Réponses aux questions de stratégie :
+Q: "Quelle stratégie devrais-je adopter pour améliorer mon score ?"
+R: "Visez 5 secondes max par calcul simple, réservez plus de temps pour les divisions complexes, concentrez-vous d'abord sur la précision (>85%), augmentez progressivement votre vitesse, visez les multiplicateurs de score."

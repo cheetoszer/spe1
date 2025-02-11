@@ -1,2 +1,2 @@
-#Fin de partie :
+Fin de partie :
 Le jeu se termine quand le joueur ne parvient pas à atteindre l'objectif. Un tableau de bord est disponible pour voir ses performances, les statistiques sont analysées pour donner des retours sur : La mémoire de travail, la vitesse de traitement, La reconnaissance des motifs, la flexibilité cognitive, la résolution de problèmes, le contrôle de l'attention.

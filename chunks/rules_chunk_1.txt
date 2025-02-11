@@ -1,2 +1,3 @@
-#Fonctionnement :
+Fonctionnement :
 Le joueur se déplace sur une grille à l'aide de bouton (haut, bas, gauche, droite) et résoud des problèmes mathématiques. Le but est d'atteindre une cible tout en répondant correctement aux questions mathématiques.
+
