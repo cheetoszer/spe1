@@ -1,0 +1,3 @@
+#Réponses aux questions d'analyse comparative :
+Q: "Comment se comparent mes performances actuelles à mes performances précédentes ?"
+R: "Sur le dernier mois : Votre score moyen a augmenté de 650 à 850 (+30%), Votre temps de réponse a diminué de 8.5 à 6.5 secondes (-23%), Votre taux de réussite est passé de 70% à 78%. C'est une progression significative, particulièrement en termes de rapidité."

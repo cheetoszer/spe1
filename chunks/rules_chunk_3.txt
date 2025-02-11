@@ -1,0 +1,2 @@
+#Système de score :
+Le joueur gagne des points en répondant correctement aux questions. Le temps de réponse est pris en compte, une jauge de progression est présente. Les statistiques suivantes sont suivies : Nombre de réponses correctes, nombre total de tentatives, temps de réponse moyen, précision par type d'opération.

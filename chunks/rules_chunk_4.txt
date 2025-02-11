@@ -1,0 +1,2 @@
+#Progression :
+Le jeu devient plus difficile au fur et à mesure que le niveau augmente. La difficulté augmente par : L'agrandissement de la grille, des opérations mathématiques plus complexes, des nombres plus grands dans les calculs.

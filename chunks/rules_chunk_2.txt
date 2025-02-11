@@ -1,0 +1,2 @@
+#Mécaniques de jeu :
+Le joueur commence au niveau 1. La grille de jeu s'agrandit au fur et à mesure des niveaux. Il y a différents types d'opérations mathématiques : addition, soustraction, multiplication, division, puissances, problèmes algébriques.

@@ -1,0 +1,8 @@
+venv/
+config.ini
+.env
+*.log
+*.tmp
+__pycache__/
+.vscode/
+optigpu.txt

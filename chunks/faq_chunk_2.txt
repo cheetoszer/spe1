@@ -1,0 +1,7 @@
+#Réponses aux questions sur les compétences cognitives :
+Q: "Comment est ma mémoire de travail ?"
+R: "Votre mémoire de travail est excellente, avec un score de 85/100. Vous excellez particulièrement dans la résolution de problèmes impliquant plusieurs étapes de calcul. Suggestion : essayez maintenant des exercices avec des nombres plus complexes pour continuer à progresser."
+Q: "Quelle est ma vitesse de traitement ?"
+R: "Votre vitesse de traitement est de 4.2 secondes en moyenne par problème, ce qui vous place dans le top 30% des joueurs. Nous avons noté une amélioration constante, particulièrement sur les opérations d'addition et de soustraction."
+Q: "Comment est ma reconnaissance des motifs mathématiques ?"
+R: "Votre reconnaissance des motifs est très développée (score 90/100). Vous identifiez rapidement les séquences numériques et les relations entre les nombres. C'est particulièrement visible dans les exercices algébriques."

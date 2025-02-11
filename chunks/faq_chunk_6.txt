@@ -1,0 +1,3 @@
+#Réponses aux questions sur les statistiques détaillées :
+Q: "Peux-tu me donner une analyse détaillée de mes dernières sessions ?"
+R: "Analyse des 10 dernières sessions : score moyen : 850 points, meilleur score : 1200 points (session

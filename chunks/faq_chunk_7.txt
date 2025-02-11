@@ -1,0 +1,1 @@
+#7), niveau maximum atteint : 7, opérations les plus réussies : additions (92%), points à améliorer : divisions (76%), temps moyen par problème : 6.5 secondes, Pprogression globale : +15% par rapport à la semaine précédente."
