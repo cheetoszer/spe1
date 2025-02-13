@@ -50,7 +50,18 @@ telnet localhost 6333
 
 ---
 
-## 4. Installation llamacpp sur GPU avec CUDA :
+### 4. Installer et Lancer LlamaCpp (llama-server)
+
+### Installation CPU :
+
+```bash
+git clone https://github.com/ggerganov/llama.cpp.git
+cd llama.cpp
+cmake -B build
+cmake --build build --config Release
+```
+
+### Installation GPU avec CUDA :
 
 1. Assurez-vous d'avoir installé le toolkit CUDA depuis le site officiel de NVIDIA.
 2. Clonez le dépôt LlamaCpp et compilez avec CUDA activé :
@@ -67,6 +78,25 @@ Si votre GPU n'est pas détecté automatiquement, ajoutez la Compute Capability 
 ```bash
 cmake -B build -DGGML_CUDA=ON -DCMAKE_CUDA_ARCHITECTURES="86"
 cmake --build build --config Release
+```
+
+### Lancement du serveur :
+
+Assurez vous d'être dans le répertoire llamacpp.
+
+```bash
+./build/bin/llama-server -m <chemin_vers_mistral_instruct_v0.2.guuf_q5km.gguf>
+```
+Pour ajouter des layer du model sur le gpu utilisez :
+
+```bash 
+-ngl <nombre_de_layer>
+```
+
+Vérifiez qu'il fonctionne :
+
+```bash
+curl http://127.0.0.1:8080/v1/models
 ```
 
 **Documentation complète de LlamaCpp :** [https://github.com/ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
@@ -88,14 +118,3 @@ python app.py
 ```
 
 Votre application est maintenant accessible et opérationnelle ! 🚀
-
-
-
-
-
-
-
-
-
-
-
