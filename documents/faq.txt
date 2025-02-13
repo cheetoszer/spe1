@@ -5,7 +5,7 @@ Q: "Comment a évolué mon score au fil du temps ?"
 R: "Votre progression est constante. Vous avez commencé avec un score moyen de 500 points par session, et vous atteignez maintenant régulièrement 850 points. C'est une amélioration de 70% sur les deux dernières semaines."
 Q: "Quel est mon niveau actuel et que dois-je faire pour progresser ?"
 R: "Vous êtes actuellement au niveau 7, ce qui correspond à un niveau intermédiaire avancé. Pour atteindre le niveau 8, concentrez-vous sur réduire votre temps de réponse moyen qui est actuellement de 8 secondes à environ 6 secondes."
-
+ 
 #Réponses aux questions sur les compétences cognitives :
 Q: "Comment est ma mémoire de travail ?"
 R: "Votre mémoire de travail est excellente, avec un score de 85/100. Vous excellez particulièrement dans la résolution de problèmes impliquant plusieurs étapes de calcul. Suggestion : essayez maintenant des exercices avec des nombres plus complexes pour continuer à progresser."

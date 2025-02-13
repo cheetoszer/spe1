@@ -6,3 +6,7 @@ config.ini
 __pycache__/
 .vscode/
 optigpu.txt
+note.txt
+deprecated.py
+.gradio/
+chunks/
