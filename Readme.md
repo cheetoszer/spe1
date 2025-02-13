@@ -50,7 +50,7 @@ telnet localhost 6333
 
 ---
 
-### Installation GPU avec CUDA :
+## 4. Installation llamacpp sur GPU avec CUDA :
 
 1. Assurez-vous d'avoir installé le toolkit CUDA depuis le site officiel de NVIDIA.
 2. Clonez le dépôt LlamaCpp et compilez avec CUDA activé :
