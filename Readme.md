@@ -87,7 +87,7 @@ Assurez vous d'être dans le répertoire llamacpp.
 ```bash
 ./build/bin/llama-server -m <chemin_vers_mistral_instruct_v0.2.guuf_q5km.gguf>
 ```
-Pour ajouter des layer du model sur le gpu utilisez :
+Pour ajouter des layers du model sur le gpu utilisez :
 
 ```bash 
 -ngl <nombre_de_layer>
@@ -116,5 +116,3 @@ Une fois la base Qdrant initialisée, lancez l'application :
 ```bash
 python app.py
 ```
-
-Votre application est maintenant accessible et opérationnelle ! 🚀
